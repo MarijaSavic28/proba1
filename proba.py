@@ -1,5 +1,5 @@
 def g():
-    i=10
+    i=5
     for j in range(i):
         print(j)
 def f():
